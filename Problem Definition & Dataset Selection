@@ -1,0 +1,71 @@
+PROJECT
+
+"BMW Car Sales Data Analysis"
+
+🌟 Task 1: Problem Definition & Dataset Selection 
+             
+Clear problem statement, relevant domain, quality dataset (size, source, variety).
+
+❗ Problem Statement: 
+
+This project analyzes the key factors influencing the sales performance of BMW vehicles across various global markets. Using a detailed car sales dataset, the objective is to uncover patterns and insights that can assist in pricing, marketing, production planning, and strategic decision-making. Predictive insights into BMW car sales patterns using historical features
+
+🌐 Domain: Sales & E-commerce
+   
+Trend and seasonality analysis of sales data
+
+Use Cases in this Domain:
+
+Price Prediction: Estimating fair market value based on vehicle features.
+
+Trend Analysis: Understanding how car age, fuel type, or transmission affect resale value.
+
+Customer Insights: Segmenting buyers based on preferences (e.g., diesel vs petrol).
+
+Dealer Analytics: Helping dealerships optimize inventory and pricing strategy.
+
+📊 Dataset Quality Evaluation
+
+📏 1. Size (Volume)
+
+Number of Rows: Represents the number of car listings or entries [50,000 rows]
+
+Number of Columns: Each column captures a specific attribute (e.g., Year, Price, Fuel Type etc..). [11 columns]
+
+This is a suitable dataset supports data analysis. The the dataset contains 50,000 of rows.
+
+🌐 Source
+
+Dataset obtained from a public repository (e.g., Kaggle), commonly used in automotive analytics projects. Assumed to be collected from real car listings or dealer platforms
+
+🧩 Variety
+
+⦁	Data Types: Includes a mix of:
+
+Categorical (Fuel Type, Transmission)
+
+Numerical (Price, Mileage, Year)
+
+Possibly derived columns (e.g., Car Age, Price per KM)
+
+⦁	Breadth of Features:
+Covers various aspects of vehicle specifications, making it suitable for:
+
+Classification (e.g., automatic vs manual)
+
+Regression (e.g., predicting price)
+
+Clustering (e.g., market segmentation)
+
+⦁	About Dataset : Dataset Description
+
+This dataset contains historical data related to BMW car sales, with the goal of building a classification model to predict whether a car sale will be successful based on key features.
+
+It includes information such as car specifications (e.g., fuel type, engine size, price etc..) and sales outcome (e.g. high or low).
+
+The dataset is suitable for training and evaluating supervised learning models for classification, and for conducting exploratory data analysis in the automotive sales domain.
+
+This synthetic or anonymized dataset is designed for educational and research purposes.
+
+
+
